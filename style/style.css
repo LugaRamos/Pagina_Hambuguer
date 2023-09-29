@@ -100,7 +100,7 @@ figure {
 }
 
 #box-container2{
-    height: 400px;
+    height: 200px;
     padding: 100px;
 }
 
@@ -126,6 +126,7 @@ form{
 }
 
 #form1{
+    height: 100px;
     padding: 10px;
     display: flex;
     flex-direction: column;
@@ -149,6 +150,6 @@ button{
 footer{
     background-image: url(/img/rodape/fundo.png);
     background-size: cover;
-    height: 700px;
+    height: 300px;
     padding: 40px;
 }
