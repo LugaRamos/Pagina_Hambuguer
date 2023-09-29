@@ -1,0 +1,154 @@
+body{
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#logo {
+    width: 150px;
+}
+
+a{
+    padding: 7px 15px;
+    font-size: 15px;
+    margin: 5px;
+    color: black;
+    font-size: 20px;
+}
+
+#container {
+    background-color: rgb(221, 181, 21);
+    background-size: cover;
+    height: 700px;
+    padding: 40px;
+}
+
+#header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#main {
+    padding: 7px 15px;
+    margin-top: 100px;
+    margin-left: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#title-main {
+    font-size: 80px;
+    font-weight: 900;
+}
+
+#logo-main {
+    padding-left: 100px;
+}
+
+#box-container{
+    height: 700px;
+    padding: 40px;
+}
+
+#box-info{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#informes{
+    padding: 70px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#box{
+    background-color: rgb(221, 181, 21);
+    font-size: 30px;
+    margin: 20px;
+    padding: 10px;
+}
+
+#imag-info {
+    padding: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+figure {
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#img{
+    width: 300px;
+}
+
+#box-form{
+    padding: 40px;
+    height: 100px;
+}
+
+#box-container2{
+    height: 400px;
+    padding: 100px;
+}
+
+#box-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+#forms {
+    padding: 70px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+form{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#form1{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+#form2 {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+button{
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 7%;
+}
+
+footer{
+    background-image: url(/img/rodape/fundo.png);
+    background-size: cover;
+    height: 700px;
+    padding: 40px;
+}
